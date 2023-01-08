@@ -1,5 +1,5 @@
 # Project-List
-It is page that record my prejects.
+It is page that records my prejects.
 ## MFTCF
 This work was accepted by AAAI (2023). [[code]](https://github.com/Zjut-MultimediaPlus/MGTCF)
 ### Abstract
