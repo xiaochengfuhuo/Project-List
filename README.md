@@ -1,7 +1,7 @@
 # Project-List
 It is page that records my prejects.
 ## MFTCF
-This work was accepted by AAAI (2023). [[code]](https://github.com/Zjut-MultimediaPlus/MGTCF)
+This work was accepted by AAAI (2023) and the paper will be published in April 2023. [[code]](https://github.com/Zjut-MultimediaPlus/MGTCF)
 ### Abstract
 Accurate forecasting of tropical cyclone (TC) plays a critical role in the prevention and defense of TC disasters. We
 must explore a more accurate method for TC prediction.
